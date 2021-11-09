@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("楊力丞/n");
+    printf("楊力丞\n");
 }
